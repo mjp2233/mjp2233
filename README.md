@@ -1,7 +1,7 @@
 
 ## About Me
 
-- 🔭 I'm a full-stack Java/Typescript developer in the financial services industry.
+- 🔭 I'm a full-stack Java/Typescript developer who dabbles in React and Kotlin.
 - 🌱 I enjoy learning new technologies and programming languages. I use this account for side projects (mostly private repos) and collaboration.
 
 ### :hammer_and_wrench: Languages:
