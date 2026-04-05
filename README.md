@@ -1,4 +1,3 @@
-
 ## About Me
 
 - 🔭 I'm a full-stack Java/Typescript developer who dabbles in React and Kotlin.
